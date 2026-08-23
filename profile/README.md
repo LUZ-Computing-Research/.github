@@ -1,3 +1,15 @@
+
+<p align="center">
+  <img
+    src="./assets/banner-luz-computing.png"
+    alt="LUZ Computing Research — Coordinación de Trabajo de Investigación"
+    width="100%"
+  >
+</p>
+
+
+<!--
+
 <div align="center">
 
 # LUZ Computing Research
@@ -9,7 +21,8 @@
 ### Orienta · Investiga · Desarrolla · Preserva
 
 Espacio académico para orientar y acompañar el proceso de **Trabajo de Investigación en Computación**, desde la formulación del Proyecto de Trabajo de Investigación hasta la defensa, cierre y futura preservación responsable de sus resultados.
-
+-->
+<div align="center">
 <p align="center">
   <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos">
     <img src="https://img.shields.io/badge/Gu%C3%ADas%20y%20normas-2F3540?style=for-the-badge" alt="Guías y normas">

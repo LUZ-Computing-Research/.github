@@ -60,6 +60,20 @@ La Coordinación:
 
 ---
 
+## Coordinación académica
+
+**Prof. Yaskelly Yedra, PhD**  
+**Coordinadora de Trabajo de Investigación (pregrado) · Área de Computación**  
+Departamento de Computación · Facultad Experimental de Ciencias · Universidad del Zulia
+
+Profesora Titular e investigadora en Ciencias de la Computación, con actividad académica en Ingeniería de Software, Inteligencia Artificial y formación universitaria.
+
+**Perfiles académicos:** [Perfil académico](https://www.yaskellyyedra.com/about/) · [ORCID](https://orcid.org/0009-0004-4290-120X)
+
+Esta información identifica a la responsable académica de la Coordinación; las disposiciones y procedimientos institucionales aplicables siguen siendo los establecidos por la Universidad del Zulia.
+
+---
+
 ## Ruta del Trabajo de Investigación
 
 El proceso académico se organiza conceptualmente en **dos grandes fases**:
